@@ -5,23 +5,6 @@ body {
   background-color: #fce4ec;
 }
 
-.navigation {
-  text-align: center;
-  padding: 10px;
-  background-color: #f8bbd0;
-  border-bottom: 2px solid #f48fb1;
-}
-
-.navigation a {
-  color: #880e4f;
-  text-decoration: none;
-  margin: 0 15px;
-  font-weight: bold;
-}
-
-.navigation a:hover {
-  text-decoration: underline;
-}
 .services-container {
   display: flex;
   flex-wrap: wrap;
